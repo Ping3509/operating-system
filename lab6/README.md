@@ -1,0 +1,3 @@
+Write a program using the POSIX API functions for retrieving the current path, opening and closing directories, reading directory contents, and retrieving file attributes to create a replica of the `ls` command (ls-l command). The program should be able to retrieve the current working directory path and display the file names and attributes for all files within that directory.
+
+The displayed file attributes should include: file type, permissions, number of hard links, owner username, owner group username, file size, and last modification time.
